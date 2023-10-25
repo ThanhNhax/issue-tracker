@@ -6,7 +6,7 @@ const IssuesPage = () => {
   return (
     <div>
       <Button>
-        <Link href='/issues/new'></Link>
+        <Link href='/issues/new'>Create Issue</Link>
       </Button>
     </div>
   );
